@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HWFirst</string>
+    <string name="hello_andrej">Hello Andrej!</string>
 </resources>

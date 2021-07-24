@@ -59,6 +59,16 @@
         android:ems="10"
         android:hint="Введите email"
         android:inputType="textEmailAddress" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:text="Перейти в первый макет"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
 
     <CalendarView
         android:id="@+id/calendarView"
