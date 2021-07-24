@@ -11,8 +11,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="text"
-        android:hint="Введите текст"/>
+        android:hint="Введите текст"
+        android:inputType="text" />
 
     <EditText
         android:id="@+id/editTextTextPersonName2"
@@ -20,8 +20,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Введите имя" />
+        android:hint="Введите имя"
+        android:inputType="textPersonName" />
 
     <EditText
         android:id="@+id/editTextPhone"
@@ -29,8 +29,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="phone"
-        android:hint="Введите номер телефона"/>
+        android:hint="Введите номер телефона"
+        android:inputType="phone" />
 
 
     <EditText
@@ -39,8 +39,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="number"
-        android:hint="Введите цифры"/>
+        android:hint="Введите цифры"
+        android:inputType="number" />
 
     <EditText
         android:id="@+id/editTextTextPassword"
@@ -48,8 +48,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textPassword"
-        android:hint="Введите пароль"/>
+        android:hint="Введите пароль"
+        android:inputType="textPassword" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
@@ -57,8 +57,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:ems="10"
-        android:inputType="textEmailAddress"
-        android:hint="Введите email"/>
+        android:hint="Введите email"
+        android:inputType="textEmailAddress" />
 
     <CalendarView
         android:id="@+id/calendarView"
